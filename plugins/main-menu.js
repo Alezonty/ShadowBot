@@ -465,7 +465,8 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
               },               {
                 "rows": [{
                   "title": `↳🤴┃OWNER BOT`,
-                  "description": "Save Kontak Clara:(",
+                  "description": "Save Kontak Botz
+",
                   "rowId": `.owner`
                 },{
                   "title": "↳🤖┃BOT",
